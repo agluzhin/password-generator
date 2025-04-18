@@ -1,0 +1,8 @@
+{
+	"/start": "Hello, <b>{user_name}</b>! 👋\nI'm a bot which was created to generate castom passwords.\nTo start the generation process use the command: /generate.",
+	"/generate": "Now, please, choose the <b>length</b> of your password:",
+	"digits": "Do you want to use <b>digits</b> in your password?",
+	"symbols": "Do you want to use <b>symbols</b> in your passwords?",
+	"generate": "Do you want to <b>start</b> generation or <b>cancel</b> that?",
+	"result": "Here you are! This is your new pasword:\n<b>{password}</b>"
+}
